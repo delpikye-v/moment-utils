@@ -1,6 +1,6 @@
 {
   "name": "moment-utils-z",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collect and make some function common. (momment)",
   "main": "build/index.js",
   "module": "build/index.esm.js",
